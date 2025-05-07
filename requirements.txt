@@ -1,0 +1,12 @@
+# requirements.txt
+torch==2.4.1+cu118
+torchvision==0.19.1+cu118
+torchaudio==2.4.1+cu118
+torch-geometric==2.6.1
+numpy==1.24.3
+matplotlib==3.7.2
+tqdm==4.67.1
+Pillow==10.4.0
+scikit-image==0.21.0
+opencv-python==4.11.0.86
+kornia==0.7.3
